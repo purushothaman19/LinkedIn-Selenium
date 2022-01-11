@@ -1,8 +1,8 @@
 from selenium import webdriver
 import time
 
-E_MAIL = 'purushothaman.ei19@bitsathy.ac.in'
-PASSWORD = 'purushoth.l'
+E_MAIL = 'YOUR EMAIL'
+PASSWORD = 'YOUR PASSWORD'
 
 chrome_driver_path = '/Users/purush/Development/chromedriver'
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
