@@ -4,7 +4,7 @@ import time
 E_MAIL = 'YOUR EMAIL'
 PASSWORD = 'YOUR PASSWORD'
 
-chrome_driver_path = '/Users/purush/Development/chromedriver'
+chrome_driver_path = 'chromedriver--path'
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
 
