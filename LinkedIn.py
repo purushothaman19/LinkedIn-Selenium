@@ -50,7 +50,7 @@ for job in jobs:
 # time.sleep(2)
 # phone_number = driver.find_element_by_id('urn:li:fs_easyApplyFormElement:(urn:li:fs_normalized_jobPosting:2432102199,'
 #                                          '20868410,phoneNumber~nationalNumber)')
-# phone_number.send_keys('9976576720')
+# phone_number.send_keys('22222222')
 #
 # time.sleep(1)
 # step1 = driver.find_element_by_id('ember404')
